@@ -8,7 +8,6 @@ A lightweight and portable batch script that extracts saved Wi-Fi network names 
 - ✅ Displays all saved Wi-Fi profiles
 - ✅ Extracts passwords (if available)
 - ✅ Saves output to a neatly formatted `.txt` file
-- ✅ Shows a console-based spinner while scanning
 - ✅ No installation required – just run and go!
 - ✅ Fully offline; no internet access required
 
@@ -58,7 +57,7 @@ A lightweight and portable batch script that extracts saved Wi-Fi network names 
 ## 🧑‍💻 Author
 
 **Mark Chito**  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/markchitoanteja)
 
 ---
 
